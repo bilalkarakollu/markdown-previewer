@@ -7,4 +7,17 @@
 #preview{
     border: 2px solid blue;
     background-color: #C0D8D8;
+    text-align: left;
+    overflow: hidden;
+}
+
+#preview code{
+    border-radius: 4px;
+    padding: 5px 0px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#preview pre{
+    padding: 10px;
 }
