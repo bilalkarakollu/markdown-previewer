@@ -1,0 +1,10 @@
+#editor{
+    width: 100%;
+    border: 2px solid blue;
+    background-color: #C0D8D8;
+}
+
+#preview{
+    border: 2px solid blue;
+    background-color: #C0D8D8;
+}
