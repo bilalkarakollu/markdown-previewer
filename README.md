@@ -1,1 +1,1 @@
-## [Random Quote](https://bilalkarakollu.github.io/random-quote/)
+## [Markdown Previewer](https://bilalkarakollu.github.io/markdown-previewer/)
